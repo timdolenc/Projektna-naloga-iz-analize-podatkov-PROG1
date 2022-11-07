@@ -1,15 +1,22 @@
-ANALIZA AKTIVNOSTI NA SOCIALNIH OMREŽJIH
+ANALIZA KITARSKIH PESMI
 ========================================
 
-Analiziral bom ob katerih urah v dnevu so moji facebook prijatelji najbolj aktivni.
-Program bo v intervalu enega tedna vsako uro zajel število aktivnih stikov in izračunal njihovo povprečno starost.
-
-Nato bom iz prvih nekaj lokalnih objav zajel čas objave in število všečkov.
-Iz zgornjega bom poskusil najti povezavo med: 
-
-* številom všečkov in časom objave,
-* aktivnost, čas v dnevu
-* všečki, ocenjena aktivnost ob času objave
-* ...
+  Analiziral bom prvih 10.000 pesmi glede na število klikov na strani: 
+  [ULTIMATE GUITAR] (https://www.ultimate-guitar.com/explore?order=hitstotal_desc&type[]=Chords).
+  
+  Za vsako pesem bom zajel:
+  - naslov
+  - avtor
+  - težavnost
+  - popularnost (št. klikov)
+  - potrebne akorde
+  
+  Delavne hipoteze:
+  - Kateri so najbolj popularni avtorji?
+  - Ali obstaja povezava med težavnostjo in popularnostjo?
+  - Katere pesmi so si med seboj najbolj podobne?
+  - Ali lahko iz potrebnih akordov napovemo težavnost?
+  
+  
 
 
