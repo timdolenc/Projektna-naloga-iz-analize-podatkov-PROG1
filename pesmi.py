@@ -92,7 +92,8 @@ def write_csv(fieldnames, rows, directory, filename):
         for row in rows:
             writer.writerow(row)
     return     
-        
+
+
 slovar, neustrezni = izloči_podatke_iz_vseh_tab_datotek(100)
 fieldnames = ["naslov", "izvajalec","kliki","tezavnost", "akordi"]
 
